@@ -1,0 +1,11 @@
+{
+  "name": "claude-neon-rain",
+  "owner": { "name": "Tamara1001" },
+  "plugins": [
+    {
+      "name": "neon-rain",
+      "source": "./",
+      "description": "Neon Rain: a dark neon theme for Claude Desktop with an animated ASCII city in the rain."
+    }
+  ]
+}
